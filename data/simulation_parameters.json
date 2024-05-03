@@ -1,0 +1,8 @@
+
+{
+    "hbar": 1.0545718e-34,
+    "angular_frequency": 1e14,
+    "atomic_mass": 1.67e-27,
+    "spring_constant": 100,
+    "seed": 42
+}
